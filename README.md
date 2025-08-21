@@ -16,12 +16,13 @@ This project demonstrates core mechanics for character climbing, vaulting, and i
 
 ---
 
-## How to Use
-
-1. Clone or download the repository  
-2. Open the project with Unity (recommended version: 2022.x or newer)  
-3. Open the demo scene in `Assets/Scenes`  
-4. Play the scene to test climbing and parkour mechanics
+## Controls  
+| Key                  | Action                    |
+|----------------------|---------------------------|
+| **W/A/S/D**          | Move                     |
+| **Spacebar**         | Interact with NPCs        |
+| **Left Mouse Button**| Use tools or items        |
+| **T Key**            | Fast forward time         |
 
 ---
 
