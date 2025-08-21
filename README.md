@@ -20,9 +20,8 @@ This project demonstrates core mechanics for character climbing, vaulting, and i
 | Key                  | Action                    |
 |----------------------|---------------------------|
 | **W/A/S/D**          | Move                     |
-| **Spacebar**         | Interact with NPCs        |
-| **Left Mouse Button**| Use tools or items        |
-| **T Key**            | Fast forward time         |
+| **Spacebar**         | Interact                 |
+
 
 ---
 
